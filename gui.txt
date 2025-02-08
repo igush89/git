@@ -2,4 +2,5 @@ gui message
 git conflict
 conflict
 check conflict
+complete 
 
