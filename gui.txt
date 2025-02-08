@@ -1,5 +1,5 @@
 gui message
 git conflict
-complete
+conflict
 check conflict
 
