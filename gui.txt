@@ -1,5 +1,6 @@
 gui message
 git conflict
-complete/conflict
+ele
+conflict
 check conflict
 
