@@ -1,7 +1,5 @@
 gui message
-<<<<<<< HEAD
-
 git conflict
 complete
 check conflict
->>>>>>> 0b7e9c6b94f0b3839b830ab6aa98fac86e676fb4
+
